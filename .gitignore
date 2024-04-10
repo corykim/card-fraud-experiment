@@ -1,0 +1,8 @@
+# Model pipeline artifacts
+/pipelines/cc_fraud_pipeline/
+
+# Should not be committed to repo
+/data
+
+# IDEA
+.idea
